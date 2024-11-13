@@ -1,2 +1,3 @@
 # ayuda-con-mi-primer-proyecto
-estoy en primero de sistemas y quiero crear un programa para cierre de semestre, pero tengo algunos problemas con mi proyecto y estoy presentando varios errores en mi código. 
+deseo crear una app en java basada en el ODS 12. 
+Estoy en primero de la carrera y seria mi proyecto final, pero me fui muy alto y necesito un poco de ayuda.
